@@ -18,7 +18,7 @@ namespace Genericos
         public static void MuestraNombre<Tipo>(params Tipo[] Objeto) where Tipo : ElementoConNombre
         {
             foreach (var o in Objeto)
-                Console.WriteLine("la mascota se llama " + o.RetornaNombre());
+                Console.WriteLine("la mascota se ll " + o.RetornaNombre());
             //Console.WriteLine("la mascota se llama " + Objeto[0].RetornaNombre() + "/n");
             //Console.WriteLine("el mueble se llama " + Objeto[1].RetornaNombre() + "/n");
         }
