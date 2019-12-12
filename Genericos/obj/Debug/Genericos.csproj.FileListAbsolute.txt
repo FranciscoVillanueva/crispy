@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\Genericos\Genericos\bin\Debug\Genericos.exe.config
+C:\Users\Curso\source\repos\Genericos\Genericos\bin\Debug\Genericos.exe
+C:\Users\Curso\source\repos\Genericos\Genericos\bin\Debug\Genericos.pdb
+C:\Users\Curso\source\repos\Genericos\Genericos\obj\Debug\Genericos.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Genericos\Genericos\obj\Debug\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Genericos\Genericos\obj\Debug\Genericos.exe
+C:\Users\Curso\source\repos\Genericos\Genericos\obj\Debug\Genericos.pdb
